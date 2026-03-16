@@ -1,0 +1,1 @@
+# homebrew-mcp-smart-proxy
